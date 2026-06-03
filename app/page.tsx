@@ -3,7 +3,7 @@ import LoginForm from "./components/login-form";
 
 export default function Home() {
   return (
-    <div className="grid grid-cols-12 grid-rows-12 bg-[#EFF4FF] w-screen h-screen p-7">
+    <div className="grid grid-cols-12 grid-rows-12 bg-[#EFF4FF] w-full h-screen p-7">
       <main className="col-span-full row-span-full flex rounded-3xl bg-white shadow-2xl">
         <div className="w-[64%] h-full relative">  
           <Image
